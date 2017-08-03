@@ -1,0 +1,12 @@
+sub{
+    font-style: oblique;
+}
+sup{
+    font-style: oblique;
+}
+
+ .brd {
+    border: 2px dashed black; /* Параметры границы */
+    padding: 10px; /* Поля вокруг текста */
+    float: left;
+ }

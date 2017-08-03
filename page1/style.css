@@ -1,0 +1,53 @@
+body {
+	background: blue;
+}
+
+h2{
+
+    background-color: #FF0000 ;/* Цвет фона */
+     height: 40px; /* Высота блока */
+    width: 120px; /* Ширина блока */
+    color: #FFFFFF; /* Цвет текста */
+    
+}
+.p{
+    background-color:#6A5ACD ; /* Цвет фона */
+    padding:15px;
+}
+.p2{
+     background-color:yellow ; /* Цвет фона */
+    padding:15px;
+}
+    .one{
+      background-color: #FF0000 ;  
+     height: 40px; /* Высота блока */
+    width: 100px; /* Ширина блока */
+}
+.two{
+      background-color:orange ;  
+     height: 40px; /* Высота блока */
+    width: 180px; /* Ширина блока */
+}
+.three{
+      background-color:#6A5ACD ; 
+     height: 40px; /* Высота блока */
+    width: 250px; /* Ширина блока */
+}
+.joy{
+  background-color:#FF7F50 ; 
+     height: 50px; /* Высота блока */
+    width: 200px; /* Ширина блока */  
+    font-family: Florence, cursive;
+    font-size: 30px;
+    font-weight: bolder;
+    padding:15px;
+}
+.title{
+    background-color:#d6d7be ; 
+     height: 50px; /* Высота блока */
+    width: 200px; /* Ширина блока */  
+    font-family: Florence, cursive;
+    font-size: 30px;
+    font-weight: bolder;
+    padding:15px;
+}

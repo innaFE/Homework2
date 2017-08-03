@@ -1,0 +1,16 @@
+body{
+    background-color: #d6d7be;
+}
+
+h1{
+    color: #532601;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+  color: #875327;
+}
+.href{
+    color: #285501;
+    text-decoration: underline;
+}
